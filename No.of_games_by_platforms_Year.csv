@@ -1,0 +1,1299 @@
+,Platform,Year,Total,Editor_choice_Yes,Editor_choice_No
+0,PC,1970,0,0,0
+1,PC,1996,1,0,1
+2,PC,1997,0,0,0
+3,PC,1998,112,15,97
+4,PC,1999,243,43,200
+5,PC,2000,266,58,208
+6,PC,2001,225,43,182
+7,PC,2002,191,52,139
+8,PC,2003,203,57,146
+9,PC,2004,196,35,161
+10,PC,2005,147,39,108
+11,PC,2006,175,25,150
+12,PC,2007,157,30,127
+13,PC,2008,264,30,234
+14,PC,2009,191,32,159
+15,PC,2010,136,38,98
+16,PC,2011,168,46,122
+17,PC,2012,147,45,102
+18,PC,2013,180,29,151
+19,PC,2014,156,22,134
+20,PC,2015,118,23,95
+21,PC,2016,94,17,77
+22,PlayStation 2,1970,0,0,0
+23,PlayStation 2,1996,0,0,0
+24,PlayStation 2,1997,0,0,0
+25,PlayStation 2,1998,0,0,0
+26,PlayStation 2,1999,0,0,0
+27,PlayStation 2,2000,45,8,37
+28,PlayStation 2,2001,159,46,113
+29,PlayStation 2,2002,231,48,183
+30,PlayStation 2,2003,221,68,153
+31,PlayStation 2,2004,232,55,177
+32,PlayStation 2,2005,232,45,187
+33,PlayStation 2,2006,210,30,180
+34,PlayStation 2,2007,136,7,129
+35,PlayStation 2,2008,156,5,151
+36,PlayStation 2,2009,58,1,57
+37,PlayStation 2,2010,6,1,5
+38,PlayStation 2,2011,0,0,0
+39,PlayStation 2,2012,0,0,0
+40,PlayStation 2,2013,0,0,0
+41,PlayStation 2,2014,0,0,0
+42,PlayStation 2,2015,0,0,0
+43,PlayStation 2,2016,0,0,0
+44,Xbox 360,1970,1,0,1
+45,Xbox 360,1996,0,0,0
+46,Xbox 360,1997,0,0,0
+47,Xbox 360,1998,0,0,0
+48,Xbox 360,1999,0,0,0
+49,Xbox 360,2000,0,0,0
+50,Xbox 360,2001,0,0,0
+51,Xbox 360,2002,0,0,0
+52,Xbox 360,2003,0,0,0
+53,Xbox 360,2004,1,0,1
+54,Xbox 360,2005,29,4,25
+55,Xbox 360,2006,100,17,83
+56,Xbox 360,2007,193,38,155
+57,Xbox 360,2008,247,53,194
+58,Xbox 360,2009,272,56,216
+59,Xbox 360,2010,248,63,185
+60,Xbox 360,2011,213,59,154
+61,Xbox 360,2012,170,47,123
+62,Xbox 360,2013,104,18,86
+63,Xbox 360,2014,50,11,39
+64,Xbox 360,2015,3,0,3
+65,Xbox 360,2016,0,0,0
+66,Wii,1970,0,0,0
+67,Wii,1996,0,0,0
+68,Wii,1997,0,0,0
+69,Wii,1998,0,0,0
+70,Wii,1999,0,0,0
+71,Wii,2000,0,0,0
+72,Wii,2001,0,0,0
+73,Wii,2002,0,0,0
+74,Wii,2003,0,0,0
+75,Wii,2004,0,0,0
+76,Wii,2005,0,0,0
+77,Wii,2006,49,8,41
+78,Wii,2007,286,45,241
+79,Wii,2008,373,45,328
+80,Wii,2009,357,41,316
+81,Wii,2010,192,26,166
+82,Wii,2011,95,11,84
+83,Wii,2012,11,3,8
+84,Wii,2013,3,0,3
+85,Wii,2014,0,0,0
+86,Wii,2015,0,0,0
+87,Wii,2016,0,0,0
+88,PlayStation 3,1970,0,0,0
+89,PlayStation 3,1996,0,0,0
+90,PlayStation 3,1997,0,0,0
+91,PlayStation 3,1998,0,0,0
+92,PlayStation 3,1999,0,0,0
+93,PlayStation 3,2000,0,0,0
+94,PlayStation 3,2001,0,0,0
+95,PlayStation 3,2002,0,0,0
+96,PlayStation 3,2003,0,0,0
+97,PlayStation 3,2004,0,0,0
+98,PlayStation 3,2005,0,0,0
+99,PlayStation 3,2006,21,3,18
+100,PlayStation 3,2007,115,23,92
+101,PlayStation 3,2008,190,56,134
+102,PlayStation 3,2009,215,60,155
+103,PlayStation 3,2010,212,52,160
+104,PlayStation 3,2011,228,64,164
+105,PlayStation 3,2012,172,46,126
+106,PlayStation 3,2013,130,23,107
+107,PlayStation 3,2014,67,14,53
+108,PlayStation 3,2015,5,1,4
+109,PlayStation 3,2016,1,0,1
+110,Nintendo DS,1970,0,0,0
+111,Nintendo DS,1996,0,0,0
+112,Nintendo DS,1997,0,0,0
+113,Nintendo DS,1998,0,0,0
+114,Nintendo DS,1999,0,0,0
+115,Nintendo DS,2000,0,0,0
+116,Nintendo DS,2001,0,0,0
+117,Nintendo DS,2002,0,0,0
+118,Nintendo DS,2003,0,0,0
+119,Nintendo DS,2004,11,1,10
+120,Nintendo DS,2005,73,13,60
+121,Nintendo DS,2006,124,10,114
+122,Nintendo DS,2007,262,9,253
+123,Nintendo DS,2008,310,20,290
+124,Nintendo DS,2009,167,21,146
+125,Nintendo DS,2010,65,14,51
+126,Nintendo DS,2011,30,9,21
+127,Nintendo DS,2012,3,3,0
+128,Nintendo DS,2013,0,0,0
+129,Nintendo DS,2014,0,0,0
+130,Nintendo DS,2015,0,0,0
+131,Nintendo DS,2016,0,0,0
+132,PlayStation,1970,0,0,0
+133,PlayStation,1996,138,6,132
+134,PlayStation,1997,170,13,157
+135,PlayStation,1998,155,21,134
+136,PlayStation,1999,177,33,144
+137,PlayStation,2000,248,40,208
+138,PlayStation,2001,48,8,40
+139,PlayStation,2002,14,2,12
+140,PlayStation,2003,2,1,1
+141,PlayStation,2004,0,0,0
+142,PlayStation,2005,0,0,0
+143,PlayStation,2006,0,0,0
+144,PlayStation,2007,0,0,0
+145,PlayStation,2008,0,0,0
+146,PlayStation,2009,0,0,0
+147,PlayStation,2010,0,0,0
+148,PlayStation,2011,0,0,0
+149,PlayStation,2012,0,0,0
+150,PlayStation,2013,0,0,0
+151,PlayStation,2014,0,0,0
+152,PlayStation,2015,0,0,0
+153,PlayStation,2016,0,0,0
+154,Wireless,1970,0,0,0
+155,Wireless,1996,0,0,0
+156,Wireless,1997,0,0,0
+157,Wireless,1998,0,0,0
+158,Wireless,1999,0,0,0
+159,Wireless,2000,0,0,0
+160,Wireless,2001,0,0,0
+161,Wireless,2002,0,0,0
+162,Wireless,2003,82,25,57
+163,Wireless,2004,166,82,84
+164,Wireless,2005,204,58,146
+165,Wireless,2006,169,38,131
+166,Wireless,2007,208,54,154
+167,Wireless,2008,78,10,68
+168,Wireless,2009,2,1,1
+169,Wireless,2010,1,0,1
+170,Wireless,2011,0,0,0
+171,Wireless,2012,0,0,0
+172,Wireless,2013,0,0,0
+173,Wireless,2014,0,0,0
+174,Wireless,2015,0,0,0
+175,Wireless,2016,0,0,0
+176,iPhone,1970,0,0,0
+177,iPhone,1996,0,0,0
+178,iPhone,1997,0,0,0
+179,iPhone,1998,0,0,0
+180,iPhone,1999,0,0,0
+181,iPhone,2000,0,0,0
+182,iPhone,2001,0,0,0
+183,iPhone,2002,0,0,0
+184,iPhone,2003,0,0,0
+185,iPhone,2004,0,0,0
+186,iPhone,2005,0,0,0
+187,iPhone,2006,0,0,0
+188,iPhone,2007,0,0,0
+189,iPhone,2008,110,12,98
+190,iPhone,2009,227,39,188
+191,iPhone,2010,213,33,180
+192,iPhone,2011,132,39,93
+193,iPhone,2012,74,12,62
+194,iPhone,2013,55,10,45
+195,iPhone,2014,18,5,13
+196,iPhone,2015,11,2,9
+197,iPhone,2016,2,0,2
+198,Xbox,1970,0,0,0
+199,Xbox,1996,0,0,0
+200,Xbox,1997,0,0,0
+201,Xbox,1998,0,0,0
+202,Xbox,1999,0,0,0
+203,Xbox,2000,0,0,0
+204,Xbox,2001,33,10,23
+205,Xbox,2002,150,48,102
+206,Xbox,2003,168,52,116
+207,Xbox,2004,185,44,141
+208,Xbox,2005,184,45,139
+209,Xbox,2006,98,13,85
+210,Xbox,2007,3,0,3
+211,Xbox,2008,0,0,0
+212,Xbox,2009,0,0,0
+213,Xbox,2010,0,0,0
+214,Xbox,2011,0,0,0
+215,Xbox,2012,0,0,0
+216,Xbox,2013,0,0,0
+217,Xbox,2014,0,0,0
+218,Xbox,2015,0,0,0
+219,Xbox,2016,0,0,0
+220,PlayStation Portable,1970,0,0,0
+221,PlayStation Portable,1996,0,0,0
+222,PlayStation Portable,1997,0,0,0
+223,PlayStation Portable,1998,0,0,0
+224,PlayStation Portable,1999,0,0,0
+225,PlayStation Portable,2000,0,0,0
+226,PlayStation Portable,2001,0,0,0
+227,PlayStation Portable,2002,0,0,0
+228,PlayStation Portable,2003,0,0,0
+229,PlayStation Portable,2004,0,0,0
+230,PlayStation Portable,2005,67,8,59
+231,PlayStation Portable,2006,140,16,124
+232,PlayStation Portable,2007,142,13,129
+233,PlayStation Portable,2008,75,9,66
+234,PlayStation Portable,2009,98,13,85
+235,PlayStation Portable,2010,85,12,73
+236,PlayStation Portable,2011,23,5,18
+237,PlayStation Portable,2012,2,1,1
+238,PlayStation Portable,2013,1,0,1
+239,PlayStation Portable,2014,0,0,0
+240,PlayStation Portable,2015,0,0,0
+241,PlayStation Portable,2016,0,0,0
+242,Game Boy Advance,1970,0,0,0
+243,Game Boy Advance,1996,0,0,0
+244,Game Boy Advance,1997,0,0,0
+245,Game Boy Advance,1998,0,0,0
+246,Game Boy Advance,1999,0,0,0
+247,Game Boy Advance,2000,0,0,0
+248,Game Boy Advance,2001,76,17,59
+249,Game Boy Advance,2002,172,26,146
+250,Game Boy Advance,2003,141,32,109
+251,Game Boy Advance,2004,105,12,93
+252,Game Boy Advance,2005,56,8,48
+253,Game Boy Advance,2006,61,1,60
+254,Game Boy Advance,2007,12,3,9
+255,Game Boy Advance,2008,0,0,0
+256,Game Boy Advance,2009,0,0,0
+257,Game Boy Advance,2010,0,0,0
+258,Game Boy Advance,2011,0,0,0
+259,Game Boy Advance,2012,0,0,0
+260,Game Boy Advance,2013,0,0,0
+261,Game Boy Advance,2014,0,0,0
+262,Game Boy Advance,2015,0,0,0
+263,Game Boy Advance,2016,0,0,0
+264,GameCube,1970,0,0,0
+265,GameCube,1996,0,0,0
+266,GameCube,1997,0,0,0
+267,GameCube,1998,0,0,0
+268,GameCube,1999,0,0,0
+269,GameCube,2000,0,0,0
+270,GameCube,2001,17,8,9
+271,GameCube,2002,132,29,103
+272,GameCube,2003,137,28,109
+273,GameCube,2004,93,24,69
+274,GameCube,2005,86,18,68
+275,GameCube,2006,39,3,36
+276,GameCube,2007,5,0,5
+277,GameCube,2008,0,0,0
+278,GameCube,2009,0,0,0
+279,GameCube,2010,0,0,0
+280,GameCube,2011,0,0,0
+281,GameCube,2012,0,0,0
+282,GameCube,2013,0,0,0
+283,GameCube,2014,0,0,0
+284,GameCube,2015,0,0,0
+285,GameCube,2016,0,0,0
+286,Game Boy Color,1970,0,0,0
+287,Game Boy Color,1996,0,0,0
+288,Game Boy Color,1997,0,0,0
+289,Game Boy Color,1998,0,0,0
+290,Game Boy Color,1999,86,5,81
+291,Game Boy Color,2000,210,13,197
+292,Game Boy Color,2001,56,14,42
+293,Game Boy Color,2002,4,0,4
+294,Game Boy Color,2003,0,0,0
+295,Game Boy Color,2004,0,0,0
+296,Game Boy Color,2005,0,0,0
+297,Game Boy Color,2006,0,0,0
+298,Game Boy Color,2007,0,0,0
+299,Game Boy Color,2008,0,0,0
+300,Game Boy Color,2009,0,0,0
+301,Game Boy Color,2010,0,0,0
+302,Game Boy Color,2011,0,0,0
+303,Game Boy Color,2012,0,0,0
+304,Game Boy Color,2013,0,0,0
+305,Game Boy Color,2014,0,0,0
+306,Game Boy Color,2015,0,0,0
+307,Game Boy Color,2016,0,0,0
+308,Nintendo 64,1970,0,0,0
+309,Nintendo 64,1996,8,2,6
+310,Nintendo 64,1997,35,3,32
+311,Nintendo 64,1998,72,7,65
+312,Nintendo 64,1999,98,11,87
+313,Nintendo 64,2000,78,15,63
+314,Nintendo 64,2001,10,3,7
+315,Nintendo 64,2002,1,1,0
+316,Nintendo 64,2003,0,0,0
+317,Nintendo 64,2004,0,0,0
+318,Nintendo 64,2005,0,0,0
+319,Nintendo 64,2006,0,0,0
+320,Nintendo 64,2007,0,0,0
+321,Nintendo 64,2008,0,0,0
+322,Nintendo 64,2009,0,0,0
+323,Nintendo 64,2010,0,0,0
+324,Nintendo 64,2011,0,0,0
+325,Nintendo 64,2012,0,0,0
+326,Nintendo 64,2013,0,0,0
+327,Nintendo 64,2014,0,0,0
+328,Nintendo 64,2015,0,0,0
+329,Nintendo 64,2016,0,0,0
+330,Dreamcast,1970,0,0,0
+331,Dreamcast,1996,0,0,0
+332,Dreamcast,1997,0,0,0
+333,Dreamcast,1998,0,0,0
+334,Dreamcast,1999,54,5,49
+335,Dreamcast,2000,167,29,138
+336,Dreamcast,2001,61,23,38
+337,Dreamcast,2002,3,2,1
+338,Dreamcast,2003,0,0,0
+339,Dreamcast,2004,0,0,0
+340,Dreamcast,2005,0,0,0
+341,Dreamcast,2006,1,0,1
+342,Dreamcast,2007,0,0,0
+343,Dreamcast,2008,0,0,0
+344,Dreamcast,2009,0,0,0
+345,Dreamcast,2010,0,0,0
+346,Dreamcast,2011,0,0,0
+347,Dreamcast,2012,0,0,0
+348,Dreamcast,2013,0,0,0
+349,Dreamcast,2014,0,0,0
+350,Dreamcast,2015,0,0,0
+351,Dreamcast,2016,0,0,0
+352,PlayStation 4,1970,0,0,0
+353,PlayStation 4,1996,0,0,0
+354,PlayStation 4,1997,0,0,0
+355,PlayStation 4,1998,0,0,0
+356,PlayStation 4,1999,0,0,0
+357,PlayStation 4,2000,0,0,0
+358,PlayStation 4,2001,0,0,0
+359,PlayStation 4,2002,0,0,0
+360,PlayStation 4,2003,0,0,0
+361,PlayStation 4,2004,0,0,0
+362,PlayStation 4,2005,0,0,0
+363,PlayStation 4,2006,0,0,0
+364,PlayStation 4,2007,0,0,0
+365,PlayStation 4,2008,0,0,0
+366,PlayStation 4,2009,0,0,0
+367,PlayStation 4,2010,0,0,0
+368,PlayStation 4,2011,0,0,0
+369,PlayStation 4,2012,1,1,0
+370,PlayStation 4,2013,34,12,22
+371,PlayStation 4,2014,84,13,71
+372,PlayStation 4,2015,97,21,76
+373,PlayStation 4,2016,61,15,46
+374,Nintendo DSi,1970,0,0,0
+375,Nintendo DSi,1996,0,0,0
+376,Nintendo DSi,1997,0,0,0
+377,Nintendo DSi,1998,0,0,0
+378,Nintendo DSi,1999,0,0,0
+379,Nintendo DSi,2000,0,0,0
+380,Nintendo DSi,2001,0,0,0
+381,Nintendo DSi,2002,0,0,0
+382,Nintendo DSi,2003,0,0,0
+383,Nintendo DSi,2004,0,0,0
+384,Nintendo DSi,2005,0,0,0
+385,Nintendo DSi,2006,0,0,0
+386,Nintendo DSi,2007,0,0,0
+387,Nintendo DSi,2008,0,0,0
+388,Nintendo DSi,2009,54,5,49
+389,Nintendo DSi,2010,121,15,106
+390,Nintendo DSi,2011,75,3,72
+391,Nintendo DSi,2012,4,0,4
+392,Nintendo DSi,2013,0,0,0
+393,Nintendo DSi,2014,0,0,0
+394,Nintendo DSi,2015,0,0,0
+395,Nintendo DSi,2016,0,0,0
+396,Nintendo 3DS,1970,0,0,0
+397,Nintendo 3DS,1996,0,0,0
+398,Nintendo 3DS,1997,0,0,0
+399,Nintendo 3DS,1998,0,0,0
+400,Nintendo 3DS,1999,0,0,0
+401,Nintendo 3DS,2000,0,0,0
+402,Nintendo 3DS,2001,0,0,0
+403,Nintendo 3DS,2002,0,0,0
+404,Nintendo 3DS,2003,0,0,0
+405,Nintendo 3DS,2004,0,0,0
+406,Nintendo 3DS,2005,0,0,0
+407,Nintendo 3DS,2006,0,0,0
+408,Nintendo 3DS,2007,0,0,0
+409,Nintendo 3DS,2008,0,0,0
+410,Nintendo 3DS,2009,0,0,0
+411,Nintendo 3DS,2010,0,0,0
+412,Nintendo 3DS,2011,84,13,71
+413,Nintendo 3DS,2012,40,13,27
+414,Nintendo 3DS,2013,47,11,36
+415,Nintendo 3DS,2014,24,1,23
+416,Nintendo 3DS,2015,15,2,13
+417,Nintendo 3DS,2016,15,3,12
+418,Xbox One,1970,0,0,0
+419,Xbox One,1996,0,0,0
+420,Xbox One,1997,0,0,0
+421,Xbox One,1998,0,0,0
+422,Xbox One,1999,0,0,0
+423,Xbox One,2000,0,0,0
+424,Xbox One,2001,0,0,0
+425,Xbox One,2002,0,0,0
+426,Xbox One,2003,0,0,0
+427,Xbox One,2004,0,0,0
+428,Xbox One,2005,0,0,0
+429,Xbox One,2006,0,0,0
+430,Xbox One,2007,0,0,0
+431,Xbox One,2008,0,0,0
+432,Xbox One,2009,0,0,0
+433,Xbox One,2010,0,0,0
+434,Xbox One,2011,0,0,0
+435,Xbox One,2012,0,0,0
+436,Xbox One,2013,23,6,17
+437,Xbox One,2014,59,13,46
+438,Xbox One,2015,85,17,68
+439,Xbox One,2016,41,7,34
+440,PlayStation Vita,1970,0,0,0
+441,PlayStation Vita,1996,0,0,0
+442,PlayStation Vita,1997,0,0,0
+443,PlayStation Vita,1998,0,0,0
+444,PlayStation Vita,1999,0,0,0
+445,PlayStation Vita,2000,0,0,0
+446,PlayStation Vita,2001,0,0,0
+447,PlayStation Vita,2002,0,0,0
+448,PlayStation Vita,2003,0,0,0
+449,PlayStation Vita,2004,0,0,0
+450,PlayStation Vita,2005,0,0,0
+451,PlayStation Vita,2006,0,0,0
+452,PlayStation Vita,2007,0,0,0
+453,PlayStation Vita,2008,0,0,0
+454,PlayStation Vita,2009,0,0,0
+455,PlayStation Vita,2010,0,0,0
+456,PlayStation Vita,2011,0,0,0
+457,PlayStation Vita,2012,66,15,51
+458,PlayStation Vita,2013,38,8,30
+459,PlayStation Vita,2014,39,7,32
+460,PlayStation Vita,2015,9,3,6
+461,PlayStation Vita,2016,3,2,1
+462,Wii U,1970,0,0,0
+463,Wii U,1996,0,0,0
+464,Wii U,1997,0,0,0
+465,Wii U,1998,0,0,0
+466,Wii U,1999,0,0,0
+467,Wii U,2000,0,0,0
+468,Wii U,2001,0,0,0
+469,Wii U,2002,0,0,0
+470,Wii U,2003,0,0,0
+471,Wii U,2004,0,0,0
+472,Wii U,2005,0,0,0
+473,Wii U,2006,0,0,0
+474,Wii U,2007,0,0,0
+475,Wii U,2008,0,0,0
+476,Wii U,2009,0,0,0
+477,Wii U,2010,0,0,0
+478,Wii U,2011,0,0,0
+479,Wii U,2012,28,8,20
+480,Wii U,2013,44,10,34
+481,Wii U,2014,23,5,18
+482,Wii U,2015,13,1,12
+483,Wii U,2016,6,0,6
+484,iPad,1970,0,0,0
+485,iPad,1996,0,0,0
+486,iPad,1997,0,0,0
+487,iPad,1998,0,0,0
+488,iPad,1999,0,0,0
+489,iPad,2000,0,0,0
+490,iPad,2001,0,0,0
+491,iPad,2002,0,0,0
+492,iPad,2003,0,0,0
+493,iPad,2004,0,0,0
+494,iPad,2005,0,0,0
+495,iPad,2006,0,0,0
+496,iPad,2007,0,0,0
+497,iPad,2008,0,0,0
+498,iPad,2009,0,0,0
+499,iPad,2010,53,14,39
+500,iPad,2011,22,5,17
+501,iPad,2012,13,8,5
+502,iPad,2013,5,1,4
+503,iPad,2014,4,2,2
+504,iPad,2015,2,0,2
+505,iPad,2016,0,0,0
+506,Lynx,1970,0,0,0
+507,Lynx,1996,0,0,0
+508,Lynx,1997,0,0,0
+509,Lynx,1998,0,0,0
+510,Lynx,1999,80,0,80
+511,Lynx,2000,0,0,0
+512,Lynx,2001,2,0,2
+513,Lynx,2002,0,0,0
+514,Lynx,2003,0,0,0
+515,Lynx,2004,0,0,0
+516,Lynx,2005,0,0,0
+517,Lynx,2006,0,0,0
+518,Lynx,2007,0,0,0
+519,Lynx,2008,0,0,0
+520,Lynx,2009,0,0,0
+521,Lynx,2010,0,0,0
+522,Lynx,2011,0,0,0
+523,Lynx,2012,0,0,0
+524,Lynx,2013,0,0,0
+525,Lynx,2014,0,0,0
+526,Lynx,2015,0,0,0
+527,Lynx,2016,0,0,0
+528,Macintosh,1970,0,0,0
+529,Macintosh,1996,0,0,0
+530,Macintosh,1997,0,0,0
+531,Macintosh,1998,0,0,0
+532,Macintosh,1999,0,0,0
+533,Macintosh,2000,0,0,0
+534,Macintosh,2001,0,0,0
+535,Macintosh,2002,37,20,17
+536,Macintosh,2003,3,2,1
+537,Macintosh,2004,0,0,0
+538,Macintosh,2005,0,0,0
+539,Macintosh,2006,0,0,0
+540,Macintosh,2007,0,0,0
+541,Macintosh,2008,0,0,0
+542,Macintosh,2009,0,0,0
+543,Macintosh,2010,0,0,0
+544,Macintosh,2011,0,0,0
+545,Macintosh,2012,13,7,6
+546,Macintosh,2013,18,7,11
+547,Macintosh,2014,6,3,3
+548,Macintosh,2015,3,0,3
+549,Macintosh,2016,1,1,0
+550,Genesis,1970,0,0,0
+551,Genesis,1996,0,0,0
+552,Genesis,1997,0,0,0
+553,Genesis,1998,0,0,0
+554,Genesis,1999,0,0,0
+555,Genesis,2000,0,0,0
+556,Genesis,2001,0,0,0
+557,Genesis,2002,0,0,0
+558,Genesis,2003,0,0,0
+559,Genesis,2004,0,0,0
+560,Genesis,2005,0,0,0
+561,Genesis,2006,5,1,4
+562,Genesis,2007,15,0,15
+563,Genesis,2008,29,1,28
+564,Genesis,2009,9,3,6
+565,Genesis,2010,0,0,0
+566,Genesis,2011,0,0,0
+567,Genesis,2012,0,0,0
+568,Genesis,2013,0,0,0
+569,Genesis,2014,0,0,0
+570,Genesis,2015,0,0,0
+571,Genesis,2016,0,0,0
+572,NES,1970,0,0,0
+573,NES,1996,0,0,0
+574,NES,1997,0,0,0
+575,NES,1998,0,0,0
+576,NES,1999,0,0,0
+577,NES,2000,0,0,0
+578,NES,2001,0,0,0
+579,NES,2002,0,0,0
+580,NES,2003,0,0,0
+581,NES,2004,0,0,0
+582,NES,2005,1,0,1
+583,NES,2006,4,0,4
+584,NES,2007,27,4,23
+585,NES,2008,12,1,11
+586,NES,2009,5,4,1
+587,NES,2010,0,0,0
+588,NES,2011,0,0,0
+589,NES,2012,0,0,0
+590,NES,2013,0,0,0
+591,NES,2014,0,0,0
+592,NES,2015,0,0,0
+593,NES,2016,0,0,0
+594,TurboGrafx-16,1970,0,0,0
+595,TurboGrafx-16,1996,0,0,0
+596,TurboGrafx-16,1997,0,0,0
+597,TurboGrafx-16,1998,0,0,0
+598,TurboGrafx-16,1999,0,0,0
+599,TurboGrafx-16,2000,0,0,0
+600,TurboGrafx-16,2001,0,0,0
+601,TurboGrafx-16,2002,0,0,0
+602,TurboGrafx-16,2003,0,0,0
+603,TurboGrafx-16,2004,0,0,0
+604,TurboGrafx-16,2005,0,0,0
+605,TurboGrafx-16,2006,3,1,2
+606,TurboGrafx-16,2007,28,1,27
+607,TurboGrafx-16,2008,6,0,6
+608,TurboGrafx-16,2009,3,0,3
+609,TurboGrafx-16,2010,0,0,0
+610,TurboGrafx-16,2011,0,0,0
+611,TurboGrafx-16,2012,0,0,0
+612,TurboGrafx-16,2013,0,0,0
+613,TurboGrafx-16,2014,0,0,0
+614,TurboGrafx-16,2015,0,0,0
+615,TurboGrafx-16,2016,0,0,0
+616,Android,1970,0,0,0
+617,Android,1996,0,0,0
+618,Android,1997,0,0,0
+619,Android,1998,0,0,0
+620,Android,1999,0,0,0
+621,Android,2000,0,0,0
+622,Android,2001,0,0,0
+623,Android,2002,0,0,0
+624,Android,2003,0,0,0
+625,Android,2004,0,0,0
+626,Android,2005,0,0,0
+627,Android,2006,0,0,0
+628,Android,2007,0,0,0
+629,Android,2008,0,0,0
+630,Android,2009,0,0,0
+631,Android,2010,19,1,18
+632,Android,2011,3,1,2
+633,Android,2012,6,1,5
+634,Android,2013,4,0,4
+635,Android,2014,5,1,4
+636,Android,2015,1,0,1
+637,Android,2016,1,0,1
+638,Super NES,1970,0,0,0
+639,Super NES,1996,0,0,0
+640,Super NES,1997,0,0,0
+641,Super NES,1998,0,0,0
+642,Super NES,1999,0,0,0
+643,Super NES,2000,0,0,0
+644,Super NES,2001,0,0,0
+645,Super NES,2002,0,0,0
+646,Super NES,2003,0,0,0
+647,Super NES,2004,0,0,0
+648,Super NES,2005,0,0,0
+649,Super NES,2006,0,0,0
+650,Super NES,2007,12,3,9
+651,Super NES,2008,11,3,8
+652,Super NES,2009,10,3,7
+653,Super NES,2010,0,0,0
+654,Super NES,2011,0,0,0
+655,Super NES,2012,0,0,0
+656,Super NES,2013,0,0,0
+657,Super NES,2014,0,0,0
+658,Super NES,2015,0,0,0
+659,Super NES,2016,0,0,0
+660,NeoGeo Pocket Color,1970,0,0,0
+661,NeoGeo Pocket Color,1996,0,0,0
+662,NeoGeo Pocket Color,1997,0,0,0
+663,NeoGeo Pocket Color,1998,0,0,0
+664,NeoGeo Pocket Color,1999,17,1,16
+665,NeoGeo Pocket Color,2000,14,3,11
+666,NeoGeo Pocket Color,2001,0,0,0
+667,NeoGeo Pocket Color,2002,0,0,0
+668,NeoGeo Pocket Color,2003,0,0,0
+669,NeoGeo Pocket Color,2004,0,0,0
+670,NeoGeo Pocket Color,2005,0,0,0
+671,NeoGeo Pocket Color,2006,0,0,0
+672,NeoGeo Pocket Color,2007,0,0,0
+673,NeoGeo Pocket Color,2008,0,0,0
+674,NeoGeo Pocket Color,2009,0,0,0
+675,NeoGeo Pocket Color,2010,0,0,0
+676,NeoGeo Pocket Color,2011,0,0,0
+677,NeoGeo Pocket Color,2012,0,0,0
+678,NeoGeo Pocket Color,2013,0,0,0
+679,NeoGeo Pocket Color,2014,0,0,0
+680,NeoGeo Pocket Color,2015,0,0,0
+681,NeoGeo Pocket Color,2016,0,0,0
+682,N-Gage,1970,0,0,0
+683,N-Gage,1996,0,0,0
+684,N-Gage,1997,0,0,0
+685,N-Gage,1998,0,0,0
+686,N-Gage,1999,0,0,0
+687,N-Gage,2000,0,0,0
+688,N-Gage,2001,0,0,0
+689,N-Gage,2002,0,0,0
+690,N-Gage,2003,11,1,10
+691,N-Gage,2004,8,1,7
+692,N-Gage,2005,9,5,4
+693,N-Gage,2006,2,1,1
+694,N-Gage,2007,0,0,0
+695,N-Gage,2008,0,0,0
+696,N-Gage,2009,0,0,0
+697,N-Gage,2010,0,0,0
+698,N-Gage,2011,0,0,0
+699,N-Gage,2012,0,0,0
+700,N-Gage,2013,0,0,0
+701,N-Gage,2014,0,0,0
+702,N-Gage,2015,0,0,0
+703,N-Gage,2016,0,0,0
+704,Game Boy,1970,0,0,0
+705,Game Boy,1996,0,0,0
+706,Game Boy,1997,0,0,0
+707,Game Boy,1998,0,0,0
+708,Game Boy,1999,16,2,14
+709,Game Boy,2000,5,0,5
+710,Game Boy,2001,0,0,0
+711,Game Boy,2002,0,0,0
+712,Game Boy,2003,0,0,0
+713,Game Boy,2004,0,0,0
+714,Game Boy,2005,0,0,0
+715,Game Boy,2006,0,0,0
+716,Game Boy,2007,0,0,0
+717,Game Boy,2008,1,0,1
+718,Game Boy,2009,0,0,0
+719,Game Boy,2010,0,0,0
+720,Game Boy,2011,0,0,0
+721,Game Boy,2012,0,0,0
+722,Game Boy,2013,0,0,0
+723,Game Boy,2014,0,0,0
+724,Game Boy,2015,0,0,0
+725,Game Boy,2016,0,0,0
+726,iPod,1970,0,0,0
+727,iPod,1996,0,0,0
+728,iPod,1997,0,0,0
+729,iPod,1998,0,0,0
+730,iPod,1999,0,0,0
+731,iPod,2000,0,0,0
+732,iPod,2001,0,0,0
+733,iPod,2002,0,0,0
+734,iPod,2003,0,0,0
+735,iPod,2004,0,0,0
+736,iPod,2005,0,0,0
+737,iPod,2006,7,0,7
+738,iPod,2007,5,2,3
+739,iPod,2008,5,1,4
+740,iPod,2009,0,0,0
+741,iPod,2010,0,0,0
+742,iPod,2011,0,0,0
+743,iPod,2012,0,0,0
+744,iPod,2013,0,0,0
+745,iPod,2014,0,0,0
+746,iPod,2015,0,0,0
+747,iPod,2016,0,0,0
+748,Sega 32X,1970,0,0,0
+749,Sega 32X,1996,0,0,0
+750,Sega 32X,1997,0,0,0
+751,Sega 32X,1998,0,0,0
+752,Sega 32X,1999,0,0,0
+753,Sega 32X,2000,0,0,0
+754,Sega 32X,2001,0,0,0
+755,Sega 32X,2002,0,0,0
+756,Sega 32X,2003,0,0,0
+757,Sega 32X,2004,0,0,0
+758,Sega 32X,2005,0,0,0
+759,Sega 32X,2006,0,0,0
+760,Sega 32X,2007,0,0,0
+761,Sega 32X,2008,16,0,16
+762,Sega 32X,2009,0,0,0
+763,Sega 32X,2010,0,0,0
+764,Sega 32X,2011,0,0,0
+765,Sega 32X,2012,0,0,0
+766,Sega 32X,2013,0,0,0
+767,Sega 32X,2014,0,0,0
+768,Sega 32X,2015,0,0,0
+769,Sega 32X,2016,0,0,0
+770,Windows Phone,1970,0,0,0
+771,Windows Phone,1996,0,0,0
+772,Windows Phone,1997,0,0,0
+773,Windows Phone,1998,0,0,0
+774,Windows Phone,1999,0,0,0
+775,Windows Phone,2000,0,0,0
+776,Windows Phone,2001,0,0,0
+777,Windows Phone,2002,0,0,0
+778,Windows Phone,2003,0,0,0
+779,Windows Phone,2004,0,0,0
+780,Windows Phone,2005,0,0,0
+781,Windows Phone,2006,0,0,0
+782,Windows Phone,2007,0,0,0
+783,Windows Phone,2008,0,0,0
+784,Windows Phone,2009,0,0,0
+785,Windows Phone,2010,12,1,11
+786,Windows Phone,2011,0,0,0
+787,Windows Phone,2012,0,0,0
+788,Windows Phone,2013,1,0,1
+789,Windows Phone,2014,1,0,1
+790,Windows Phone,2015,0,0,0
+791,Windows Phone,2016,0,0,0
+792,Master System,1970,0,0,0
+793,Master System,1996,0,0,0
+794,Master System,1997,0,0,0
+795,Master System,1998,0,0,0
+796,Master System,1999,0,0,0
+797,Master System,2000,0,0,0
+798,Master System,2001,0,0,0
+799,Master System,2002,0,0,0
+800,Master System,2003,0,0,0
+801,Master System,2004,0,0,0
+802,Master System,2005,0,0,0
+803,Master System,2006,0,0,0
+804,Master System,2007,0,0,0
+805,Master System,2008,8,2,6
+806,Master System,2009,5,1,4
+807,Master System,2010,0,0,0
+808,Master System,2011,0,0,0
+809,Master System,2012,0,0,0
+810,Master System,2013,0,0,0
+811,Master System,2014,0,0,0
+812,Master System,2015,0,0,0
+813,Master System,2016,0,0,0
+814,Arcade,1970,0,0,0
+815,Arcade,1996,0,0,0
+816,Arcade,1997,0,0,0
+817,Arcade,1998,0,0,0
+818,Arcade,1999,0,0,0
+819,Arcade,2000,1,0,1
+820,Arcade,2001,0,0,0
+821,Arcade,2002,0,0,0
+822,Arcade,2003,0,0,0
+823,Arcade,2004,0,0,0
+824,Arcade,2005,0,0,0
+825,Arcade,2006,0,0,0
+826,Arcade,2007,0,0,0
+827,Arcade,2008,1,0,1
+828,Arcade,2009,8,1,7
+829,Arcade,2010,0,0,0
+830,Arcade,2011,0,0,0
+831,Arcade,2012,1,0,1
+832,Arcade,2013,0,0,0
+833,Arcade,2014,0,0,0
+834,Arcade,2015,0,0,0
+835,Arcade,2016,0,0,0
+836,NeoGeo,1970,0,0,0
+837,NeoGeo,1996,0,0,0
+838,NeoGeo,1997,0,0,0
+839,NeoGeo,1998,0,0,0
+840,NeoGeo,1999,0,0,0
+841,NeoGeo,2000,0,0,0
+842,NeoGeo,2001,0,0,0
+843,NeoGeo,2002,0,0,0
+844,NeoGeo,2003,0,0,0
+845,NeoGeo,2004,0,0,0
+846,NeoGeo,2005,0,0,0
+847,NeoGeo,2006,0,0,0
+848,NeoGeo,2007,4,0,4
+849,NeoGeo,2008,5,1,4
+850,NeoGeo,2009,1,0,1
+851,NeoGeo,2010,0,0,0
+852,NeoGeo,2011,0,0,0
+853,NeoGeo,2012,0,0,0
+854,NeoGeo,2013,0,0,0
+855,NeoGeo,2014,0,0,0
+856,NeoGeo,2015,0,0,0
+857,NeoGeo,2016,0,0,0
+858,Linux,1970,0,0,0
+859,Linux,1996,0,0,0
+860,Linux,1997,0,0,0
+861,Linux,1998,0,0,0
+862,Linux,1999,0,0,0
+863,Linux,2000,0,0,0
+864,Linux,2001,0,0,0
+865,Linux,2002,0,0,0
+866,Linux,2003,0,0,0
+867,Linux,2004,0,0,0
+868,Linux,2005,0,0,0
+869,Linux,2006,0,0,0
+870,Linux,2007,0,0,0
+871,Linux,2008,0,0,0
+872,Linux,2009,0,0,0
+873,Linux,2010,0,0,0
+874,Linux,2011,0,0,0
+875,Linux,2012,1,0,1
+876,Linux,2013,7,3,4
+877,Linux,2014,1,0,1
+878,Linux,2015,1,0,1
+879,Linux,2016,0,0,0
+880,Nintendo 64DD,1970,0,0,0
+881,Nintendo 64DD,1996,0,0,0
+882,Nintendo 64DD,1997,0,0,0
+883,Nintendo 64DD,1998,0,0,0
+884,Nintendo 64DD,1999,0,0,0
+885,Nintendo 64DD,2000,7,1,6
+886,Nintendo 64DD,2001,0,0,0
+887,Nintendo 64DD,2002,0,0,0
+888,Nintendo 64DD,2003,0,0,0
+889,Nintendo 64DD,2004,0,0,0
+890,Nintendo 64DD,2005,0,0,0
+891,Nintendo 64DD,2006,0,0,0
+892,Nintendo 64DD,2007,0,0,0
+893,Nintendo 64DD,2008,0,0,0
+894,Nintendo 64DD,2009,0,0,0
+895,Nintendo 64DD,2010,0,0,0
+896,Nintendo 64DD,2011,0,0,0
+897,Nintendo 64DD,2012,0,0,0
+898,Nintendo 64DD,2013,0,0,0
+899,Nintendo 64DD,2014,0,0,0
+900,Nintendo 64DD,2015,0,0,0
+901,Nintendo 64DD,2016,0,0,0
+902,Commodore 64/128,1970,0,0,0
+903,Commodore 64/128,1996,0,0,0
+904,Commodore 64/128,1997,0,0,0
+905,Commodore 64/128,1998,0,0,0
+906,Commodore 64/128,1999,0,0,0
+907,Commodore 64/128,2000,0,0,0
+908,Commodore 64/128,2001,0,0,0
+909,Commodore 64/128,2002,0,0,0
+910,Commodore 64/128,2003,0,0,0
+911,Commodore 64/128,2004,0,0,0
+912,Commodore 64/128,2005,0,0,0
+913,Commodore 64/128,2006,0,0,0
+914,Commodore 64/128,2007,0,0,0
+915,Commodore 64/128,2008,1,0,1
+916,Commodore 64/128,2009,5,0,5
+917,Commodore 64/128,2010,0,0,0
+918,Commodore 64/128,2011,0,0,0
+919,Commodore 64/128,2012,0,0,0
+920,Commodore 64/128,2013,0,0,0
+921,Commodore 64/128,2014,0,0,0
+922,Commodore 64/128,2015,0,0,0
+923,Commodore 64/128,2016,0,0,0
+924,Saturn,1970,0,0,0
+925,Saturn,1996,2,0,2
+926,Saturn,1997,0,0,0
+927,Saturn,1998,0,0,0
+928,Saturn,1999,0,0,0
+929,Saturn,2000,0,0,0
+930,Saturn,2001,0,0,0
+931,Saturn,2002,0,0,0
+932,Saturn,2003,0,0,0
+933,Saturn,2004,0,0,0
+934,Saturn,2005,0,0,0
+935,Saturn,2006,0,0,0
+936,Saturn,2007,0,0,0
+937,Saturn,2008,4,2,2
+938,Saturn,2009,0,0,0
+939,Saturn,2010,0,0,0
+940,Saturn,2011,0,0,0
+941,Saturn,2012,0,0,0
+942,Saturn,2013,0,0,0
+943,Saturn,2014,0,0,0
+944,Saturn,2015,0,0,0
+945,Saturn,2016,0,0,0
+946,Atari 2600,1970,0,0,0
+947,Atari 2600,1996,0,0,0
+948,Atari 2600,1997,0,0,0
+949,Atari 2600,1998,0,0,0
+950,Atari 2600,1999,0,0,0
+951,Atari 2600,2000,0,0,0
+952,Atari 2600,2001,0,0,0
+953,Atari 2600,2002,0,0,0
+954,Atari 2600,2003,0,0,0
+955,Atari 2600,2004,0,0,0
+956,Atari 2600,2005,0,0,0
+957,Atari 2600,2006,0,0,0
+958,Atari 2600,2007,0,0,0
+959,Atari 2600,2008,5,0,5
+960,Atari 2600,2009,0,0,0
+961,Atari 2600,2010,0,0,0
+962,Atari 2600,2011,0,0,0
+963,Atari 2600,2012,0,0,0
+964,Atari 2600,2013,0,0,0
+965,Atari 2600,2014,0,0,0
+966,Atari 2600,2015,0,0,0
+967,Atari 2600,2016,0,0,0
+968,WonderSwan,1970,0,0,0
+969,WonderSwan,1996,0,0,0
+970,WonderSwan,1997,0,0,0
+971,WonderSwan,1998,0,0,0
+972,WonderSwan,1999,0,0,0
+973,WonderSwan,2000,4,0,4
+974,WonderSwan,2001,0,0,0
+975,WonderSwan,2002,0,0,0
+976,WonderSwan,2003,0,0,0
+977,WonderSwan,2004,0,0,0
+978,WonderSwan,2005,0,0,0
+979,WonderSwan,2006,0,0,0
+980,WonderSwan,2007,0,0,0
+981,WonderSwan,2008,0,0,0
+982,WonderSwan,2009,0,0,0
+983,WonderSwan,2010,0,0,0
+984,WonderSwan,2011,0,0,0
+985,WonderSwan,2012,0,0,0
+986,WonderSwan,2013,0,0,0
+987,WonderSwan,2014,0,0,0
+988,WonderSwan,2015,0,0,0
+989,WonderSwan,2016,0,0,0
+990,TurboGrafx-CD,1970,0,0,0
+991,TurboGrafx-CD,1996,0,0,0
+992,TurboGrafx-CD,1997,0,0,0
+993,TurboGrafx-CD,1998,0,0,0
+994,TurboGrafx-CD,1999,0,0,0
+995,TurboGrafx-CD,2000,0,0,0
+996,TurboGrafx-CD,2001,0,0,0
+997,TurboGrafx-CD,2002,0,0,0
+998,TurboGrafx-CD,2003,0,0,0
+999,TurboGrafx-CD,2004,0,0,0
+1000,TurboGrafx-CD,2005,0,0,0
+1001,TurboGrafx-CD,2006,0,0,0
+1002,TurboGrafx-CD,2007,0,0,0
+1003,TurboGrafx-CD,2008,3,1,2
+1004,TurboGrafx-CD,2009,0,0,0
+1005,TurboGrafx-CD,2010,0,0,0
+1006,TurboGrafx-CD,2011,0,0,0
+1007,TurboGrafx-CD,2012,0,0,0
+1008,TurboGrafx-CD,2013,0,0,0
+1009,TurboGrafx-CD,2014,0,0,0
+1010,TurboGrafx-CD,2015,0,0,0
+1011,TurboGrafx-CD,2016,0,0,0
+1012,Game.Com,1970,0,0,0
+1013,Game.Com,1996,0,0,0
+1014,Game.Com,1997,0,0,0
+1015,Game.Com,1998,0,0,0
+1016,Game.Com,1999,3,0,3
+1017,Game.Com,2000,0,0,0
+1018,Game.Com,2001,0,0,0
+1019,Game.Com,2002,0,0,0
+1020,Game.Com,2003,0,0,0
+1021,Game.Com,2004,0,0,0
+1022,Game.Com,2005,0,0,0
+1023,Game.Com,2006,0,0,0
+1024,Game.Com,2007,0,0,0
+1025,Game.Com,2008,0,0,0
+1026,Game.Com,2009,0,0,0
+1027,Game.Com,2010,0,0,0
+1028,Game.Com,2011,0,0,0
+1029,Game.Com,2012,0,0,0
+1030,Game.Com,2013,0,0,0
+1031,Game.Com,2014,0,0,0
+1032,Game.Com,2015,0,0,0
+1033,Game.Com,2016,0,0,0
+1034,New Nintendo 3DS,1970,0,0,0
+1035,New Nintendo 3DS,1996,0,0,0
+1036,New Nintendo 3DS,1997,0,0,0
+1037,New Nintendo 3DS,1998,0,0,0
+1038,New Nintendo 3DS,1999,0,0,0
+1039,New Nintendo 3DS,2000,0,0,0
+1040,New Nintendo 3DS,2001,0,0,0
+1041,New Nintendo 3DS,2002,0,0,0
+1042,New Nintendo 3DS,2003,0,0,0
+1043,New Nintendo 3DS,2004,0,0,0
+1044,New Nintendo 3DS,2005,0,0,0
+1045,New Nintendo 3DS,2006,0,0,0
+1046,New Nintendo 3DS,2007,0,0,0
+1047,New Nintendo 3DS,2008,0,0,0
+1048,New Nintendo 3DS,2009,0,0,0
+1049,New Nintendo 3DS,2010,0,0,0
+1050,New Nintendo 3DS,2011,0,0,0
+1051,New Nintendo 3DS,2012,0,0,0
+1052,New Nintendo 3DS,2013,0,0,0
+1053,New Nintendo 3DS,2014,0,0,0
+1054,New Nintendo 3DS,2015,1,0,1
+1055,New Nintendo 3DS,2016,1,0,1
+1056,Atari 5200,1970,0,0,0
+1057,Atari 5200,1996,0,0,0
+1058,Atari 5200,1997,0,0,0
+1059,Atari 5200,1998,0,0,0
+1060,Atari 5200,1999,0,0,0
+1061,Atari 5200,2000,0,0,0
+1062,Atari 5200,2001,0,0,0
+1063,Atari 5200,2002,0,0,0
+1064,Atari 5200,2003,0,0,0
+1065,Atari 5200,2004,0,0,0
+1066,Atari 5200,2005,0,0,0
+1067,Atari 5200,2006,0,0,0
+1068,Atari 5200,2007,0,0,0
+1069,Atari 5200,2008,2,0,2
+1070,Atari 5200,2009,0,0,0
+1071,Atari 5200,2010,0,0,0
+1072,Atari 5200,2011,0,0,0
+1073,Atari 5200,2012,0,0,0
+1074,Atari 5200,2013,0,0,0
+1075,Atari 5200,2014,0,0,0
+1076,Atari 5200,2015,0,0,0
+1077,Atari 5200,2016,0,0,0
+1078,Vectrex,1970,0,0,0
+1079,Vectrex,1996,0,0,0
+1080,Vectrex,1997,0,0,0
+1081,Vectrex,1998,0,0,0
+1082,Vectrex,1999,0,0,0
+1083,Vectrex,2000,0,0,0
+1084,Vectrex,2001,0,0,0
+1085,Vectrex,2002,0,0,0
+1086,Vectrex,2003,0,0,0
+1087,Vectrex,2004,0,0,0
+1088,Vectrex,2005,0,0,0
+1089,Vectrex,2006,0,0,0
+1090,Vectrex,2007,0,0,0
+1091,Vectrex,2008,2,0,2
+1092,Vectrex,2009,0,0,0
+1093,Vectrex,2010,0,0,0
+1094,Vectrex,2011,0,0,0
+1095,Vectrex,2012,0,0,0
+1096,Vectrex,2013,0,0,0
+1097,Vectrex,2014,0,0,0
+1098,Vectrex,2015,0,0,0
+1099,Vectrex,2016,0,0,0
+1100,WonderSwan Color,1970,0,0,0
+1101,WonderSwan Color,1996,0,0,0
+1102,WonderSwan Color,1997,0,0,0
+1103,WonderSwan Color,1998,0,0,0
+1104,WonderSwan Color,1999,0,0,0
+1105,WonderSwan Color,2000,0,0,0
+1106,WonderSwan Color,2001,1,1,0
+1107,WonderSwan Color,2002,0,0,0
+1108,WonderSwan Color,2003,0,0,0
+1109,WonderSwan Color,2004,0,0,0
+1110,WonderSwan Color,2005,0,0,0
+1111,WonderSwan Color,2006,0,0,0
+1112,WonderSwan Color,2007,0,0,0
+1113,WonderSwan Color,2008,0,0,0
+1114,WonderSwan Color,2009,0,0,0
+1115,WonderSwan Color,2010,0,0,0
+1116,WonderSwan Color,2011,0,0,0
+1117,WonderSwan Color,2012,0,0,0
+1118,WonderSwan Color,2013,0,0,0
+1119,WonderSwan Color,2014,0,0,0
+1120,WonderSwan Color,2015,0,0,0
+1121,WonderSwan Color,2016,0,0,0
+1122,Web Games,1970,0,0,0
+1123,Web Games,1996,0,0,0
+1124,Web Games,1997,0,0,0
+1125,Web Games,1998,0,0,0
+1126,Web Games,1999,0,0,0
+1127,Web Games,2000,0,0,0
+1128,Web Games,2001,0,0,0
+1129,Web Games,2002,0,0,0
+1130,Web Games,2003,0,0,0
+1131,Web Games,2004,0,0,0
+1132,Web Games,2005,0,0,0
+1133,Web Games,2006,0,0,0
+1134,Web Games,2007,0,0,0
+1135,Web Games,2008,0,0,0
+1136,Web Games,2009,0,0,0
+1137,Web Games,2010,0,0,0
+1138,Web Games,2011,0,0,0
+1139,Web Games,2012,1,0,1
+1140,Web Games,2013,0,0,0
+1141,Web Games,2014,0,0,0
+1142,Web Games,2015,0,0,0
+1143,Web Games,2016,0,0,0
+1144,Dreamcast VMU,1970,0,0,0
+1145,Dreamcast VMU,1996,0,0,0
+1146,Dreamcast VMU,1997,0,0,0
+1147,Dreamcast VMU,1998,0,0,0
+1148,Dreamcast VMU,1999,1,0,1
+1149,Dreamcast VMU,2000,0,0,0
+1150,Dreamcast VMU,2001,0,0,0
+1151,Dreamcast VMU,2002,0,0,0
+1152,Dreamcast VMU,2003,0,0,0
+1153,Dreamcast VMU,2004,0,0,0
+1154,Dreamcast VMU,2005,0,0,0
+1155,Dreamcast VMU,2006,0,0,0
+1156,Dreamcast VMU,2007,0,0,0
+1157,Dreamcast VMU,2008,0,0,0
+1158,Dreamcast VMU,2009,0,0,0
+1159,Dreamcast VMU,2010,0,0,0
+1160,Dreamcast VMU,2011,0,0,0
+1161,Dreamcast VMU,2012,0,0,0
+1162,Dreamcast VMU,2013,0,0,0
+1163,Dreamcast VMU,2014,0,0,0
+1164,Dreamcast VMU,2015,0,0,0
+1165,Dreamcast VMU,2016,0,0,0
+1166,Ouya,1970,0,0,0
+1167,Ouya,1996,0,0,0
+1168,Ouya,1997,0,0,0
+1169,Ouya,1998,0,0,0
+1170,Ouya,1999,0,0,0
+1171,Ouya,2000,0,0,0
+1172,Ouya,2001,0,0,0
+1173,Ouya,2002,0,0,0
+1174,Ouya,2003,0,0,0
+1175,Ouya,2004,0,0,0
+1176,Ouya,2005,0,0,0
+1177,Ouya,2006,0,0,0
+1178,Ouya,2007,0,0,0
+1179,Ouya,2008,0,0,0
+1180,Ouya,2009,0,0,0
+1181,Ouya,2010,0,0,0
+1182,Ouya,2011,0,0,0
+1183,Ouya,2012,0,0,0
+1184,Ouya,2013,1,0,1
+1185,Ouya,2014,0,0,0
+1186,Ouya,2015,0,0,0
+1187,Ouya,2016,0,0,0
+1188,DVD / HD Video Game,1970,0,0,0
+1189,DVD / HD Video Game,1996,0,0,0
+1190,DVD / HD Video Game,1997,0,0,0
+1191,DVD / HD Video Game,1998,0,0,0
+1192,DVD / HD Video Game,1999,0,0,0
+1193,DVD / HD Video Game,2000,0,0,0
+1194,DVD / HD Video Game,2001,0,0,0
+1195,DVD / HD Video Game,2002,1,0,1
+1196,DVD / HD Video Game,2003,0,0,0
+1197,DVD / HD Video Game,2004,0,0,0
+1198,DVD / HD Video Game,2005,0,0,0
+1199,DVD / HD Video Game,2006,0,0,0
+1200,DVD / HD Video Game,2007,0,0,0
+1201,DVD / HD Video Game,2008,0,0,0
+1202,DVD / HD Video Game,2009,0,0,0
+1203,DVD / HD Video Game,2010,0,0,0
+1204,DVD / HD Video Game,2011,0,0,0
+1205,DVD / HD Video Game,2012,0,0,0
+1206,DVD / HD Video Game,2013,0,0,0
+1207,DVD / HD Video Game,2014,0,0,0
+1208,DVD / HD Video Game,2015,0,0,0
+1209,DVD / HD Video Game,2016,0,0,0
+1210,SteamOS,1970,0,0,0
+1211,SteamOS,1996,0,0,0
+1212,SteamOS,1997,0,0,0
+1213,SteamOS,1998,0,0,0
+1214,SteamOS,1999,0,0,0
+1215,SteamOS,2000,0,0,0
+1216,SteamOS,2001,0,0,0
+1217,SteamOS,2002,0,0,0
+1218,SteamOS,2003,0,0,0
+1219,SteamOS,2004,0,0,0
+1220,SteamOS,2005,0,0,0
+1221,SteamOS,2006,0,0,0
+1222,SteamOS,2007,0,0,0
+1223,SteamOS,2008,0,0,0
+1224,SteamOS,2009,0,0,0
+1225,SteamOS,2010,0,0,0
+1226,SteamOS,2011,0,0,0
+1227,SteamOS,2012,0,0,0
+1228,SteamOS,2013,0,0,0
+1229,SteamOS,2014,0,0,0
+1230,SteamOS,2015,1,1,0
+1231,SteamOS,2016,0,0,0
+1232,Pocket PC,1970,0,0,0
+1233,Pocket PC,1996,0,0,0
+1234,Pocket PC,1997,0,0,0
+1235,Pocket PC,1998,0,0,0
+1236,Pocket PC,1999,0,0,0
+1237,Pocket PC,2000,0,0,0
+1238,Pocket PC,2001,0,0,0
+1239,Pocket PC,2002,0,0,0
+1240,Pocket PC,2003,1,1,0
+1241,Pocket PC,2004,0,0,0
+1242,Pocket PC,2005,0,0,0
+1243,Pocket PC,2006,0,0,0
+1244,Pocket PC,2007,0,0,0
+1245,Pocket PC,2008,0,0,0
+1246,Pocket PC,2009,0,0,0
+1247,Pocket PC,2010,0,0,0
+1248,Pocket PC,2011,0,0,0
+1249,Pocket PC,2012,0,0,0
+1250,Pocket PC,2013,0,0,0
+1251,Pocket PC,2014,0,0,0
+1252,Pocket PC,2015,0,0,0
+1253,Pocket PC,2016,0,0,0
+1254,Windows Surface,1970,0,0,0
+1255,Windows Surface,1996,0,0,0
+1256,Windows Surface,1997,0,0,0
+1257,Windows Surface,1998,0,0,0
+1258,Windows Surface,1999,0,0,0
+1259,Windows Surface,2000,0,0,0
+1260,Windows Surface,2001,0,0,0
+1261,Windows Surface,2002,0,0,0
+1262,Windows Surface,2003,0,0,0
+1263,Windows Surface,2004,0,0,0
+1264,Windows Surface,2005,0,0,0
+1265,Windows Surface,2006,0,0,0
+1266,Windows Surface,2007,0,0,0
+1267,Windows Surface,2008,0,0,0
+1268,Windows Surface,2009,0,0,0
+1269,Windows Surface,2010,0,0,0
+1270,Windows Surface,2011,0,0,0
+1271,Windows Surface,2012,0,0,0
+1272,Windows Surface,2013,1,0,1
+1273,Windows Surface,2014,0,0,0
+1274,Windows Surface,2015,0,0,0
+1275,Windows Surface,2016,0,0,0
+1276,Sega CD,1970,0,0,0
+1277,Sega CD,1996,0,0,0
+1278,Sega CD,1997,0,0,0
+1279,Sega CD,1998,0,0,0
+1280,Sega CD,1999,0,0,0
+1281,Sega CD,2000,0,0,0
+1282,Sega CD,2001,0,0,0
+1283,Sega CD,2002,0,0,0
+1284,Sega CD,2003,0,0,0
+1285,Sega CD,2004,0,0,0
+1286,Sega CD,2005,0,0,0
+1287,Sega CD,2006,0,0,0
+1288,Sega CD,2007,0,0,0
+1289,Sega CD,2008,1,0,1
+1290,Sega CD,2009,0,0,0
+1291,Sega CD,2010,0,0,0
+1292,Sega CD,2011,0,0,0
+1293,Sega CD,2012,0,0,0
+1294,Sega CD,2013,0,0,0
+1295,Sega CD,2014,0,0,0
+1296,Sega CD,2015,0,0,0
+1297,Sega CD,2016,0,0,0

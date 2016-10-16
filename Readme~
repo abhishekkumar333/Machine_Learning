@@ -1,0 +1,24 @@
+
+Analysis_and_Insights.ipynb :- Whole Data Analysis Part
+
+ML_Model.ipynb :- Machine Learning Or Predictive Model Building Part. 
+Able to Extract  Stacked Model of
+KNN,GB,Random Forrest and Logistic Regression which can give 10-fold Cross Validation Accuracy of 0.99.
+
+ 
+CSV files
+
+ign.csv :- Provided Data.
+
+Growth.csv :- Contains the data of growth of Gaming industry.
+
+No.of_games_by_platforms_Year.csv :- Number of games by a particular platform in a given year.
+
+
+Platform_Most_Awards.csv :- Total Number of Awards of Different Platforms.
+
+
+All the Questions Are Answered in the Ipython Notebooks Given. 
+Please do check Ipython Notebooks the interesting stuff happening is inside them ;).
+
+Thank you for Providing the Oppourtuinity to work on this Amazing Data.
